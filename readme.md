@@ -94,16 +94,6 @@ The CSV will include the following columns:
 
 ---
 
-## 🧚️ Testing & Example Output
-
-Included:
-
-- ✅ `tweets_sample.csv` (example for a real user)
-- ✅ `.env.example` (template)
-- ✅ `requirements.txt`
-
----
-
 ## 📆 Dependencies
 
 - [tweepy](https://www.tweepy.org/)
@@ -112,20 +102,11 @@ Included:
 
 ---
 
-## 🕒 Time Spent
-
-\~3.5 hours
-
----
 
 ## 👨‍💻 Author
 
 Dharani K\
-[GitHub](https://github.com/yourusername) | [Email](mailto\:you@example.com)
-
+[GitHub](https://github.com/daredevil-99) | [Email](mailto:kdharanikarur@gmail.com)
 ---
 
-## 🏑 Bonus Features
-
--
 
